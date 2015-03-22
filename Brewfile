@@ -5,7 +5,6 @@
 tap caskroom/cask
 install brew-cask
 cask install appcleaner
-cask install coteditor
 cask install firefox
 cask install google-chrome
 cask install google-earth-pro
@@ -32,5 +31,6 @@ install brew-file
 install git
 
 # App Store applications
-appstore Kindle
+appstore DrCleaner
+appstore The Unarchiver
 appstore Xcode
