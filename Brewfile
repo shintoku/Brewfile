@@ -8,6 +8,7 @@ cask install appcleaner
 cask install firefox
 cask install google-chrome
 cask install google-earth-pro
+cask install iterm2
 cask install kindle
 cask install macvim
 cask install ripit
