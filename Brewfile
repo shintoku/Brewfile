@@ -33,5 +33,6 @@ install git
 
 # App Store applications
 appstore DrCleaner
+appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
