@@ -13,6 +13,8 @@ cask install kindle
 cask install macvim
 cask install ripit
 cask install vlc
+cask install onyx
+cask install google-japanese-ime
 
 ## caskroom/versions
 tap caskroom/versions
@@ -36,3 +38,4 @@ appstore DrCleaner
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
+appstore Noisy Typer
