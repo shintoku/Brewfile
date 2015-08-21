@@ -41,4 +41,5 @@ appstore The Unarchiver
 appstore Xcode
 appstore feedly
 appstore LINE
+appstore go for gmail
 
