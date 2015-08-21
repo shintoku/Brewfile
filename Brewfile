@@ -39,3 +39,6 @@ appstore DrCleaner
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
+appstore feedly
+appstore LINE
+
