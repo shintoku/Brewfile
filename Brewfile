@@ -1,45 +1,38 @@
 
 # tap repositories and their packages
-install --disable-etcdir zsh
-install zsh-completions
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install appcleaner
-cask install firefox
-cask install google-chrome
-cask install google-earth-pro
-cask install iterm2
-cask install kindle
-cask install macvim
-cask install ripit
-cask install vlc
-cask install onyx
-cask install google-japanese-ime
+brew brew-cask
+cask appcleaner
+cask firefox
+cask google-chrome
+cask google-earth-pro
+cask google-japanese-ime
+cask iterm2
+cask kindle
+cask macvim
+cask onyx
+cask ripit
+cask vlc
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
+cask firefox-ja
 
 ## homebrew/versions
 tap homebrew/versions
 
-## phinze/cask
-tap phinze/cask
-
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install git
+brew git
+brew zsh-completions
 
 # App Store applications
 appstore DrCleaner
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
-
-## The others
-# Noisy Typer
