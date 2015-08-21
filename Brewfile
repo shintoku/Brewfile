@@ -1,5 +1,7 @@
 
 # tap repositories and their packages
+install zsh --disable-etcdir
+install zsh-completions
 
 ## caskroom/cask
 tap caskroom/cask
@@ -36,3 +38,6 @@ appstore DrCleaner
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
+
+## The others
+# NoisyTyper
