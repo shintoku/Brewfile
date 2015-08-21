@@ -1,7 +1,5 @@
 
 # tap repositories and their packages
-install zsh --disable-etcdir
-install zsh-completions
 
 ## caskroom/cask
 tap caskroom/cask
@@ -30,7 +28,10 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew gdbm
 brew git
+brew pcre
+brew zsh --without-etcdir
 brew zsh-completions
 
 # App Store applications
@@ -38,6 +39,3 @@ appstore DrCleaner
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
-
-## The others
-# NoisyTyper
