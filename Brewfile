@@ -36,10 +36,10 @@ brew zsh-completions
 
 # App Store applications
 appstore DrCleaner
+appstore feedly
+appstore Free Fonts
+appstore Go for Gmail
+appstore LINE
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
-appstore feedly
-appstore LINE
-appstore go for gmail
-
