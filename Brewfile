@@ -15,6 +15,7 @@ cask macvim
 cask onyx
 cask ripit
 cask vlc
+cask flash
 
 ## caskroom/versions
 tap caskroom/versions
