@@ -6,6 +6,7 @@ tap caskroom/cask
 brew brew-cask
 cask appcleaner
 cask firefox
+cask flash
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
@@ -15,7 +16,6 @@ cask macvim
 cask onyx
 cask ripit
 cask vlc
-cask flash
 
 ## caskroom/versions
 tap caskroom/versions
@@ -39,7 +39,6 @@ brew zsh-completions
 appstore DrCleaner
 appstore feedly
 appstore Free Fonts
-appstore Go for Gmail
 appstore LINE
 appstore MARKETSPEED
 appstore The Unarchiver
