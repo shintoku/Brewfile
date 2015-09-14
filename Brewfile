@@ -7,6 +7,7 @@ brew brew-cask
 cask appcleaner
 cask firefox
 cask flash
+cask flux
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
@@ -16,7 +17,6 @@ cask macvim
 cask onyx
 cask ripit
 cask vlc
-cask flux
 
 ## caskroom/versions
 tap caskroom/versions
