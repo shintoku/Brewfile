@@ -5,7 +5,6 @@
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
-cask firefox
 cask flash
 cask flux
 cask google-chrome
@@ -22,6 +21,7 @@ cask horndis
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask libreoffice
 
 ## homebrew/versions
 tap homebrew/versions
