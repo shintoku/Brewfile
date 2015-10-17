@@ -45,3 +45,5 @@ appstore LINE
 appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
+appstore iText Editor
+
