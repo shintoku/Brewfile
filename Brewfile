@@ -10,18 +10,18 @@ cask flux
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
+cask horndis
 cask iterm2
 cask kindle
+cask libreoffice
 cask macvim
 cask onyx
 cask ripit
 cask vlc
-cask horndis
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
-cask libreoffice
 
 ## homebrew/versions
 tap homebrew/versions
@@ -38,12 +38,7 @@ brew zsh --without-etcdir
 brew zsh-completions
 
 # App Store applications
-appstore DrCleaner
+appstore CotEditor
 appstore feedly
-appstore Free Fonts
-appstore LINE
-appstore MARKETSPEED
 appstore The Unarchiver
 appstore Xcode
-appstore iText Editor
-
