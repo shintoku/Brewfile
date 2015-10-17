@@ -14,7 +14,6 @@ cask horndis
 cask iterm2
 cask kindle
 cask libreoffice
-cask macvim
 cask onyx
 cask ripit
 cask vlc
@@ -42,3 +41,5 @@ appstore CotEditor
 appstore feedly
 appstore The Unarchiver
 appstore Xcode
+appstore iText Express
+
