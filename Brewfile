@@ -39,7 +39,6 @@ brew zsh-completions
 # App Store applications
 appstore CotEditor
 appstore feedly
+appstore iText Express
 appstore The Unarchiver
 appstore Xcode
-appstore iText Express
-
