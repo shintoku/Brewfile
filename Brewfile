@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
@@ -18,14 +17,11 @@ cask onyx
 cask ripit
 cask vlc
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 
-## homebrew/versions
 tap homebrew/versions
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
