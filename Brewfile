@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
@@ -22,27 +25,23 @@ cask xquartz
 tap caskroom/versions
 cask firefox-ja
 
+tap homebrew/science
+
 tap homebrew/versions
 
 tap rcmdnk/file
 brew brew-file
 
-tap homebrew/science
-
-tap argon/mas
-brew mas
-
 # Other Homebrew packages
-brew r
 brew gdbm
 brew git
 brew pcre
+brew r
 brew zsh --without-etcdir
 brew zsh-completions
 
 # App Store applications
-appstore CotEditor
-appstore feedly
-appstore iText Express
-appstore The Unarchiver
-appstore Xcode
+appstore 425424353 The Unarchiver
+appstore 497799835 Xcode
+appstore 865500966 feedly
+appstore 416550249 iText Express
