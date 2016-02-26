@@ -15,7 +15,9 @@ cask kindle
 cask libreoffice
 cask onyx
 cask ripit
+cask rstudio
 cask vlc
+cask xquartz
 
 tap caskroom/versions
 cask firefox-ja
@@ -25,7 +27,13 @@ tap homebrew/versions
 tap rcmdnk/file
 brew brew-file
 
+tap homebrew/science
+
+tap argon/mas
+brew mas
+
 # Other Homebrew packages
+brew r
 brew gdbm
 brew git
 brew pcre
