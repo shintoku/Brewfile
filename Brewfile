@@ -7,8 +7,10 @@ brew mas
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
+cask coteditor
 cask flash
 cask flux
+cask gimp
 cask google-chrome
 cask google-earth-pro
 cask google-japanese-ime
