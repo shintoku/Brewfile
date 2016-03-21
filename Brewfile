@@ -7,7 +7,7 @@ brew mas
 tap caskroom/cask
 brew brew-cask
 cask appcleaner
-cask coteditor
+cask atom
 cask flash
 cask flux
 cask gimp
