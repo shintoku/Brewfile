@@ -27,6 +27,13 @@ cask xquartz
 tap caskroom/versions
 cask firefox-ja
 
+tap homebrew/core
+brew gdbm
+brew git
+brew pcre
+brew zsh-completions
+brew zsh --without-etcdir
+
 tap homebrew/science
 
 tap homebrew/versions
@@ -35,12 +42,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-brew gdbm
-brew git
-brew pcre
 brew r
-brew zsh --without-etcdir
-brew zsh-completions
 
 # App Store applications
 appstore 425424353 The Unarchiver
