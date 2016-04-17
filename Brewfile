@@ -23,6 +23,7 @@ cask ripit
 cask rstudio
 cask vlc
 cask xquartz
+cask android-file-transfer
 
 tap caskroom/versions
 cask firefox-ja
