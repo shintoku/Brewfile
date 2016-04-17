@@ -24,6 +24,7 @@ cask rstudio
 cask vlc
 cask xquartz
 cask android-file-transfer
+cask xld
 
 tap caskroom/versions
 cask firefox-ja
