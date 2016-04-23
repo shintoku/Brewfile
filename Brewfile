@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 brew brew-cask
+cask android-file-transfer
 cask appcleaner
 cask atom
 cask flash
@@ -22,9 +23,8 @@ cask onyx
 cask ripit
 cask rstudio
 cask vlc
-cask xquartz
-cask android-file-transfer
 cask xld
+cask xquartz
 
 tap caskroom/versions
 cask firefox-ja
@@ -45,6 +45,11 @@ brew brew-file
 
 # Other Homebrew packages
 brew r
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
 
 # App Store applications
 appstore 425424353 The Unarchiver
