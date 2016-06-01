@@ -37,14 +37,12 @@ brew zsh-completions
 brew zsh --without-etcdir
 
 tap homebrew/science
+brew r
 
 tap homebrew/versions
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew r
 
 # Below applications were installed by Cask,
 # but do not have corresponding casks.
