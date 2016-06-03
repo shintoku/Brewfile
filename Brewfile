@@ -54,3 +54,5 @@ appstore 425424353 The Unarchiver
 appstore 497799835 Xcode
 appstore 865500966 feedly
 appstore 416550249 iText Express
+appstore LINE
+
